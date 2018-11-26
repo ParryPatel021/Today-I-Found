@@ -7,6 +7,9 @@ This repository contains all kind of links which I found in my daily work routin
   * [Country Code Picker](https://github.com/hbb20/CountryCodePickerProject)
   * [Sectioned Adapter in RecyclerView](https://github.com/luizgrp/SectionedRecyclerViewAdapter)
   * [Image Processing In Android](https://github.com/ee368/EE368-Android-Samples)
+  * [DoubleTap to Like](https://github.com/BROUDING/DoubleTapLikeView)
+  * [Overlapping ImageView](https://github.com/davidHarush/Overlappingimageview)
+  * [Image Zoom View](https://github.com/hsmnzaydn/image-zoom-view)
 
 
 # Inspiration
