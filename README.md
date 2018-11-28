@@ -16,9 +16,9 @@ This repository contains all kind of links which I found in my daily work routin
   * [Picasso](https://github.com/square/picasso)
   * [QuickScroll](https://github.com/andraskindler/quickscroll)
   * [VelocityViewPager](https://github.com/Benjamin-Dobell/VelocityViewPager)
-  * [ViewPagerIndicatorLibrary](https://github.com/JakeWharton/Android-ViewPagerIndicator
-  * [Android Asynchronous HTTP Client](http://loopj.com/android-async-http/
-  * [Android BitmapCache](https://github.com/chrisbanes/Android-BitmapCache
+  * [ViewPagerIndicatorLibrary](https://github.com/JakeWharton/Android-ViewPagerIndicator)
+  * [Android Asynchronous HTTP Client](http://loopj.com/android-async-http/)
+  * [Android BitmapCache](https://github.com/chrisbanes/Android-BitmapCache)
   * [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)
   * [Apache Commons IO](http://commons.apache.org/proper/commons-io/)
   * [Apache Commons Lang](http://commons.apache.org/proper/commons-lang/)
