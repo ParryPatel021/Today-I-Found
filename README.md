@@ -30,7 +30,7 @@ This repository contains all kind of links which I found in my daily work routin
   * [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids/)
   * [Android Support Library](http://developer.android.com/tools/support-library/index.html)
   * [Code Examples from Vogella](https://github.com/vogellacompany/codeexamples-android)
-  
+  * [SlidingTabWithColorIcons Upper Selection Stripe](https://github.com/myinnos/SlidingTabWithColorIcons)
   
   
 # Inspiration
