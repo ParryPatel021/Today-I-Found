@@ -55,6 +55,7 @@ This repository contains all kind of links which I found in my daily work routin
     
   
   * Other
+    * [Markdown CheetSheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
     * [Apache Commons IO](http://commons.apache.org/proper/commons-io/)
     * [Apache Commons Lang](http://commons.apache.org/proper/commons-lang/)
     * [DashClock API](https://code.google.com/p/dashclock/)
